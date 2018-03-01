@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/**
+* Esse programa consiste em fazer a soma de números maiores ou iguais 
+* ao primeiro número inserido e fazer a subtração, caso o segundo número
+* inserido seja maior.
+*
+* @author Ameliza
+*/
+
 public class Soma{
 
 	public static void main(String[] args){
