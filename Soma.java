@@ -2,6 +2,10 @@ import java.util.Scanner;
 
 public class Soma{
 
+	/**
+	* Método principal
+	*/
+
 	public static void main(String[] args){
 		System.out.println("Digite 2 números");
 		Scanner teclado = new Scanner(System.in);
